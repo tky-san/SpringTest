@@ -1,4 +1,4 @@
-package book;
+package book.service;
 
 import java.util.List;
 

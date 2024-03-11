@@ -7,8 +7,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
-import book.BookService;
 import book.model.Book;
+import book.service.BookService;
 
 @Controller
 public class BookController {
